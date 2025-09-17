@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000428,50:004e92,100:009FFD&text=Yoursbyte&fontSize=90&fontColor=ffffff&animation=fadeIn&stroke=00D9FF&strokeWidth=2&desc=Blockchain%20Security%20Researcher%20%7C%20Smart%20Contract%20Auditor&descSize=25&descAlignY=75&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000428,50:004e92,100:009FFD&text=YoursByte&fontSize=90&fontColor=ffffff&animation=fadeIn&stroke=00D9FF&strokeWidth=2&desc=Blockchain%20Security%20Researcher%20%7C%20Smart%20Contract%20Auditor&descSize=25&descAlignY=75&fontAlignY=45" width="100%" />
 </div>
 
 <div align="center">
@@ -34,8 +34,8 @@ const yoursbyte: BlockchainSecurityResearcher = {
         name: "YoursByte",
         role: "Aspiring Security Researcher",
         mission: "Making Web3 Safer, One Audit at a Time",
-        location: "Anonymous",
-        timezone: "Redacted"
+        location: "Distributed",
+        timezone: "UTC"
     },
     
     expertise: {
@@ -361,6 +361,6 @@ if interested_in_collaboration:
   
   <br>
   
-  [![](https://img.shields.io/badge/Made_with_yoursbyte-FF0080?style=flat-square&labelColor=000)](https://github.com/yoursbyte)
+  [![](https://img.shields.io/badge/Made_with_❤️_by_yoursbyte-FF0080?style=flat-square&labelColor=000)](https://github.com/yoursbyte)
   
 </div>
