@@ -40,19 +40,31 @@ contract SecurityResearcher {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Security Tools
-![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=ethereum&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logo=firefoxbrowser&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=helm&logoColor=black)
 ![Slither](https://img.shields.io/badge/Slither-2E3440?style=flat&logo=python&logoColor=white)
-![Mythril](https://img.shields.io/badge/Mythril-4B32C3?style=flat&logo=ethereum&logoColor=white)
-![Echidna](https://img.shields.io/badge/Echidna-FF6B6B?style=flat&logo=haskell&logoColor=white)
+![Mythril](https://img.shields.io/badge/Mythril-4B32C3?style=flat&logo=moleculer&logoColor=white)
+![Echidna](https://img.shields.io/badge/Echidna-FF6B6B?style=flat&logo=pytest&logoColor=white)
+![Tenderly](https://img.shields.io/badge/Tenderly-6837FF?style=flat&logo=telescope&logoColor=white)
+
+### Development & Analysis
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white)
+![Etherscan](https://img.shields.io/badge/Etherscan-21325B?style=flat&logo=ethereum&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white)
 
 ### Blockchains
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat&logo=polygon&logoColor=white)
 ![Arbitrum](https://img.shields.io/badge/Arbitrum-2D374B?style=flat&logo=arbitrum&logoColor=white)
+![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=flat&logo=optimism&logoColor=white)
+![BNB_Chain](https://img.shields.io/badge/BNB_Chain-F3BA2F?style=flat&logo=binance&logoColor=black)
 
 ---
 
